@@ -1,10 +1,10 @@
 'use strict';
 
-describe('tipTopApp.view2 module', function() {
+describe('tipTopApp.photosView module', function() {
 
-  beforeEach(module('tipTopApp.view2'));
+  beforeEach(module('tipTopApp.photosView'));
 
-  describe('view2 controller', function(){
+  describe('photosView controller', function(){
 
     it('should ....', inject(function($controller) {
       //spec body

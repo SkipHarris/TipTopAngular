@@ -1,10 +1,10 @@
 'use strict';
 
-describe('tipTopApp.view1 module', function() {
+describe('tipTopApp.introView module', function() {
 
-  beforeEach(module('tipTopApp.view1'));
+  beforeEach(module('tipTopApp.introView'));
 
-  describe('view1 controller', function(){
+  describe('introView controller', function(){
 
     it('should ....', inject(function($controller) {
       //spec body
